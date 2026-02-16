@@ -1,1 +1,2 @@
-# Guess_numbers_Java
+# Guess-Number
+Guessing number using javax and swing 
